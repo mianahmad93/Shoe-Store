@@ -1,0 +1,58 @@
+ 
+
+ /* .images{
+    margin-left: 20px;
+    width: 95%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  
+}
+.card-Text{
+    position: absolute;
+    bottom: 0%;
+}
+
+.primary{
+    position: absolute;
+    bottom: 0%;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: rgb(51, 123, 240);
+    color: white;
+} */
+/* .shoesconatiner{
+    width: 95%;
+} */
+
+.images{
+    width: 95%;
+}
+
+.main{
+    width: 100%;
+    /* border: 1px solid black; */
+    background: rgb(15, 146, 227);
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+.main td{
+    margin: 5px;
+    margin-top: 5px;
+    flex-grow: 1;
+    font-size: larger;
+    margin-right: 90px;
+}
+.row1{
+    display: flex;
+}
+.row1 td{
+    flex-grow: 1;
+    margin-left: 50px;
+}
+
+.none{
+    display: none;
+}

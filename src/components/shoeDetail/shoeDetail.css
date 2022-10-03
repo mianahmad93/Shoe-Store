@@ -1,0 +1,79 @@
+
+.num_container{
+    position: absolute;
+    bottom: 300px;
+    left: 650px;
+    width: 20%;
+    border-radius: 20px;
+}
+.btn_div{
+    font-size: larger;
+    position: relative;
+    bottom: 45px;
+}
+.btn1{
+    position: absolute;
+    top: 40px;
+    right: 160px;
+    width: 30px;
+   background-color: rgb(0, 72, 255);
+   color: white;
+    
+}
+.btn2{
+    position: absolute;
+    bottom: -43px;
+    left: 168px;
+    width: 30px;
+   background-color: rgb(0, 72, 255);
+   color: white;
+}
+
+.sizebox{
+    position: absolute;
+    bottom: 127px;
+    left: 650px;
+    width: 20%;
+    
+}
+.size_div{
+    font-size: larger;
+    position: relative;
+    bottom: 45px;
+}
+.btn3{
+    position: relative;
+    top: 35px;
+    right: 40px;
+    width: 30px;
+   background-color: rgb(0, 72, 255);
+   color: white;
+}
+.btn4{
+    position: relative;
+    bottom: 40px;
+    left: 40px;
+    width: 30px;
+   background-color: rgb(0, 72, 255);
+   color: white;
+}
+
+
+.add_card button{
+    position: relative;
+    bottom:500px;
+    left: 110px;
+    background-color: rgb(0, 72, 255);
+    color: white;
+    border: none;
+    font-size: large;
+}
+
+/* .articleimg{
+    cursor: pointer;
+    float: left;
+    width:  350px;
+    height: 350px;
+    object-fit: cover;
+    position: relative;
+} */

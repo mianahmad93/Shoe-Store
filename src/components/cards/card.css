@@ -1,0 +1,9 @@
+
+.card{
+    box-shadow: 5px 10px 20px 1px rgb(63, 56, 56);
+    margin-top: 10px;
+}
+.card-title{
+    position: absolute;
+    bottom: 0%;
+}
